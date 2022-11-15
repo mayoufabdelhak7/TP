@@ -1,0 +1,18 @@
+.position{
+    position: fixed;
+    top: 50px;
+    left: 50px;
+    transform: translate(-50px -50px);
+    z-index: 10000;
+}
+
+.my-nav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.zindex{
+    z-index: 100000;
+}
